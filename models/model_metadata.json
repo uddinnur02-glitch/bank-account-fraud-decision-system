@@ -1,0 +1,26 @@
+{
+    "target": "fraud_bool",
+    "categorical_features": [
+        "payment_type",
+        "employment_status",
+        "housing_status",
+        "source",
+        "device_os"
+    ],
+    "training_months": [
+        0,
+        1,
+        2,
+        3,
+        4
+    ],
+    "calibration_month": 5,
+    "strategy_month": 6,
+    "final_test_month": 7,
+    "model_type": "CatBoostClassifier",
+    "iterations": 631,
+    "depth": 5,
+    "learning_rate": 0.05,
+    "calibration_method": "Platt scaling",
+    "primary_review_policy": "Top-risk applications above frozen month-6 5% threshold"
+}
