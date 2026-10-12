@@ -1,11 +1,10 @@
+# Bank Account Fraud Detection & Risk-Based Review Decision System
+
+An end-to-end machine learning project for detecting fraudulent bank-account applications...
+
 ## Live Demo
 
-Try the deployed Streamlit application:
-
 [Bank Account Fraud Decision System](https://bank-account-fraud-decision-system-5698hzrqtiqdlycxsijhsz.streamlit.app/)
-
-
-# Bank Account Fraud Detection & Risk-Based Review Decision System
 
 An end-to-end machine learning project for detecting fraudulent bank-account applications and translating model predictions into an operational **risk-based manual review strategy**.
 
