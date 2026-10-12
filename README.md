@@ -532,7 +532,7 @@ between the original notebook result and the reloaded deployment pipeline.
 # 22. Installation
 
 ```bash
-git clone <YOUR-REPOSITORY-URL>
+git clone https://github.com/uddinnur02-glitch/bank-account-fraud-decision-system
 cd bank-account-fraud-decision-system
 python -m venv .venv
 pip install -r requirements.txt
