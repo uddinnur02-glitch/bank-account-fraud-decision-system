@@ -532,6 +532,8 @@ between the original notebook result and the reloaded deployment pipeline.
 # 22. Installation
 
 ```bash
+.venv\Scripts\activate        # Windows
+source .venv/bin/activate     # macOS/Linux
 git clone https://github.com/uddinnur02-glitch/bank-account-fraud-decision-system
 cd bank-account-fraud-decision-system
 python -m venv .venv
